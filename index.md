@@ -9,7 +9,7 @@ title: Max Clevenson
 
 &nbsp;
 
-🔙&nbsp;&nbsp; **Previously…**
+Previously…
  
 > Senior UX @ [Amazon](https://advertising.amazon.com)
 >
