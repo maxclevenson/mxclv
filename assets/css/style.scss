@@ -7,3 +7,8 @@ a, a:hover {
   color:#DF0000;
   }
 
+@media print, screen and (max-width: 960px) {
+  section {
+    border-width: 0px 0;
+    } 
+}
