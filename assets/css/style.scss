@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;700&display=swap');
+
 a, a:hover {
   color:#DF0000;
   }
@@ -15,8 +17,13 @@ a, a:hover {
 
 blockquote {
   margin: 9px;
+  font-style: normal;
   }
 
 h1 {
-  font-weight: normal;
+  font-weight: 200;
+  }
+
+body {
+  font-family: 'Raleway', sans-serif;
   }
