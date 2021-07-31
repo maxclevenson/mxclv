@@ -8,7 +8,8 @@ title: Max Clevenson
 > [&#109;&#097;&#120;&#064;&#109;&#120;&#099;&#046;&#108;&#118;](mailto:&#109;&#097;&#120;&#064;&#109;&#120;&#099;&#046;&#108;&#118;?subject=Hello%20from%20mxc.lv) 
 > 
 > [LinkedIn](https://www.linkedin.com/in/maxclevenson/)
-
+> 
+> [Publications](https://www.amazon.com/s?k=max+clevenson)
 &nbsp;
 
 ❤️‍🔥&nbsp;&nbsp;&nbsp;&nbsp;PREVIOUSLY . . .
