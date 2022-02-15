@@ -9,7 +9,7 @@ title: Max Clevenson
 > 
 > [LinkedIn](https://www.linkedin.com/in/maxclevenson/)
 
-❤️&nbsp;&nbsp;&nbsp;&nbsp;𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜𝚕𝚢 . . .
+❤️&nbsp;&nbsp;&nbsp;&nbsp;𝙿𝚁𝙴𝚅𝙸𝙾𝚄𝚂𝙻𝚈 . . .
 
 > Senior UX @ [Amazon](https://advertising.amazon.com)
 > 
