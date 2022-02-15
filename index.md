@@ -9,8 +9,8 @@ title: Max Clevenson
 > 
 > [LinkedIn](https://www.linkedin.com/in/maxclevenson/)
 
-❤️&nbsp;&nbsp;&nbsp;&nbsp;PREVIOUSLY . . .
+❤️&nbsp;&nbsp;&nbsp;&nbsp;𝙿𝚛𝚎𝚟𝚒𝚘𝚞𝚜𝚕𝚢 . . .
 
 > Senior UX @ [Amazon](https://advertising.amazon.com)
 > 
-> 75+ apps @ [WillowTree](https://willowtreeapps.com/portfolio)
+> 100+ apps @ [WillowTree](https://willowtreeapps.com/portfolio)
