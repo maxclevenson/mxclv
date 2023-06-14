@@ -11,6 +11,6 @@ title: Max Clevenson
 
 🎺&nbsp;&nbsp;&nbsp;&nbsp;𝙿𝚁𝙴𝚅𝙸𝙾𝚄𝚂𝙻𝚈 . . .
 
-> Senior UX @ [Amazon](https://advertising.amazon.com)
+> Senior UX   @   [Amazon](https://advertising.amazon.com)
 > 
-> 💯+ apps @ [WillowTree](https://willowtreeapps.com/portfolio)
+> 💯+ apps   @   [WillowTree](https://willowtreeapps.com/portfolio)
